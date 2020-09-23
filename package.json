@@ -1,0 +1,19 @@
+{
+  "name": "zoom-meetings",
+  "version": "1.0.0",
+  "description": "This app is created to stream video by creating a  room id and it is the best app for meetings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waqas Akram",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "peer": "^0.5.3",
+    "socket.io": "^2.3.0",
+    "uuid": "^8.3.0"
+  }
+}
